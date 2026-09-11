@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人游戏demo开发Skill"
+  short_description: "Coordinate design, code, art, QA and playable demos"
+  default_prompt: "Use $multi-thread-delivery to coordinate this game demo across design, implementation, art, and verification tasks; reuse existing tasks, preserve project structure, and deliver a playable result."
